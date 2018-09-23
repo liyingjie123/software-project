@@ -1,1 +1,4 @@
+git push --set-upstream origin master
+
+ssh-keygen
 git remote add origin git@github.com:liyingjie123/software-project.git 
